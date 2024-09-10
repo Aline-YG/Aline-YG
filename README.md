@@ -19,4 +19,4 @@
 - 💼 [LinkedIn](https://linkedin.com/in/aline-yamamoto-goulart)
 - ✉️ E-mail: alineyamamotogoulart@gmail.com
 
-- 🌷🌷🌷
+  🌷🌷🌷
