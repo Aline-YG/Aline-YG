@@ -1,4 +1,4 @@
-# Olá, sou a Aline Yamamoto Goulart 👋😄.
+# Olá, sou a Aline Yamamoto Goulart 👋☺️. :
 
 💻 **Cientista de Dados em Formação** | **Análise de Dados** 
 
@@ -18,3 +18,5 @@
 ### Vamos nos conectar!
 - 💼 [LinkedIn](https://linkedin.com/in/aline-yamamoto-goulart)
 - ✉️ E-mail: alineyamamotogoulart@gmail.com
+
+- 🌷🌷🌷
